@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Our_Summer_techincal_project-main"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "menu based"
+	}
+}
